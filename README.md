@@ -9,3 +9,6 @@ HighSchooling : "12 th Std in State Board scored 80%", School : "10th Std in Sta
 {Achievements : "Have done two projects in IEEE Standard during M.tech IT "},
 ];
 console.log(resume);
+
+
+http://127.0.0.1:5500/index.html
